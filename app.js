@@ -2,12 +2,12 @@
 const cards = [
     { type: "section", name: "CHI?" },
 
-    { type: "card", name: "Reverendo Green" },
-    { type: "card", name: "Colonnello Mustard" },
-    { type: "card", name: "Dottoressa Orchid" },
-    { type: "card", name: "Contessa Peacock" },
-    { type: "card", name: "Professor Plum" },
-    { type: "card", name: "Miss Scarlett" },
+    { type: "card", name: "Green" },
+    { type: "card", name: "Mustard" },
+    { type: "card", name: "Peacock" },
+    { type: "card", name: "Plum" },
+    { type: "card", name: "Scarlett" },
+    { type: "card", name: "White" },
     
     { type: "section", name: "CHE COSA?" },
 
@@ -16,7 +16,7 @@ const cards = [
     { type: "card", name: "Tubo di piombo" },
     { type: "card", name: "Pistola" },
     { type: "card", name: "Corda" },
-    { type: "card", name: "Chiave inglese" },
+    { type: "card", name: "Chiave Inglese" },
 
     { type: "section", name: "DOVE?" },
 
@@ -24,7 +24,7 @@ const cards = [
     { type: "card", name: "Sala del biliardo" },
     { type: "card", name: "Serra" },
     { type: "card", name: "Sala da pranzo" },
-    { type: "card", name: "Bagno" },
+    { type: "card", name: "Ingresso" },
     { type: "card", name: "Cucina" },
     { type: "card", name: "Biblioteca" },
     { type: "card", name: "Salotto" },
